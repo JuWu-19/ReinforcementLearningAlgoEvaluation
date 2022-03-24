@@ -1,4 +1,4 @@
-# ReinforcementLearningAlgoEvaluation
+## Course project of Advanced Machine Learning MICRO-570
 
 In the project of advanced machine learning course,
 we study the theory and mechanism of two reinforcement
